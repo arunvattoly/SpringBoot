@@ -1,8 +1,5 @@
 # SpringBoot
-Personal Repository
+Personal Repository for storing Spring Boot Examples
 
 
-Spring Boot Examples
-
-
-SpringRESTful WS
+SpringRESTful Web Service
